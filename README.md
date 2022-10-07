@@ -10,5 +10,5 @@ like bootstrap, j query..etc
 ## skills
 + Html, Css and Javascript
 + java
-+ c 
++ c++
 
